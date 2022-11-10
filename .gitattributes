@@ -1,0 +1,2 @@
+# Re-classify .yy files as GameMaker Language, not Yacc
+*.yy linguist-language=JSON
